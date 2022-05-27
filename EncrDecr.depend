@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1653642957 source:d:\tugas kuliah\sistem keamanan komputer\encrdecr\main.cpp
+	<iostream>
+	<string>
+	<windows.h>
+
